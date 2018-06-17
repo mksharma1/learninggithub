@@ -3,7 +3,7 @@ p
 background-color:red;
 
 }
-div{
+div{ margin: 10px;
     color: blue;
     background-color: chocolate;
 }
@@ -12,7 +12,31 @@ div{
     background-color:#888888;
 }
 #div1
-{
-    color: black;
+{margin: 10px;
+    align-items: center;
+    color: white;
+    background-color: #000000;
+    padding: 20px;
+    border: 10px solid rgb(167, 26, 26);
+}
+#d2
+{margin: 10px;
+    color: white;
+    border: 10px solid rgb(167, 26, 26);
+    background-color: #777777;
+    padding: 20px
+}
+#d3
+{margin: 10px;
+    color: white;
+    border: 10px solid rgb(167, 26, 26);
     background-color: #cccccc;
+    padding: 20px
+}
+}
+body{
+    background-color:rgba(227, 238, 220, 0.5)
+}
+ol:hover{
+    
 }
